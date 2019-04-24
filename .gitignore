@@ -1,0 +1,6 @@
+# terra temp dir
+.terraform/
+
+# tf state files
+terraform.tfstate
+terraform.tfstate.backup
