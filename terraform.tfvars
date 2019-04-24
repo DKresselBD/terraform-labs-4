@@ -1,4 +1,4 @@
-loc  = "westeurope"
+loc  = "eastus"
 
 tags = {
     source = "citadel"
